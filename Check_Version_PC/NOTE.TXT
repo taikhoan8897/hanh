@@ -1,0 +1,6 @@
+Edit file Config
+ĐÓNG GÓI
+- cài thư viện
+pip install pyinstaller  
+- đóng gói tiêu chuẩn .exe
+pyinstaller --onefile client.py
